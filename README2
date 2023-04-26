@@ -1,0 +1,14 @@
+To compile and run the recipe application, follow the instructions below:
+
+1.	First of all you will need to have Visual Studio 2022 to run and compile this Recipe application.
+2.	Visual Studio 2022 will then allow you to create a new project.
+3.	By opening Visual Studio 2022 and create a new C# Console Application project.
+4.	You will need to design a Recipe class with the following properties: "Name", "Ingredients", "Steps", "OriginalQuantities", and "CurrentQuantities".
+5.	Then design an Ingredient class with the following properties: "Name", "Quantity", and "UnitOfMeasurement".
+6.	Import the functionalities mentioned in the requirements of the Cmd program, such as prompting the user to enter recipe details, displaying the recipe, scaling the recipe, resetting the quantities, and clearing the data.
+7.	Once you have finished importing the functionalities, compile the application and run it from the console.
+Here is the link to the Repository: https://github.com/Rebafenyi/PROG6221-POE-Part1-ST10026997
+
+
+ 
+
